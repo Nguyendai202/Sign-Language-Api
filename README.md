@@ -37,6 +37,9 @@ Run the following command:
     
 Open a web browser and go to http://localhost:8000/docs.
 
+![not image](api.png "api")
+
+
 In the "POST /predict" section, click the "Try it out" button.
 
 Select an image file to upload and click the "Execute" button.
